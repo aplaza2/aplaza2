@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Just another one trying to make funny and boring stuff programming.
 
+### Hola a todos 👋 Solo alguien más tratando de hacer cosas divertidas y aburridas programando.
+ 
 <!--
 **aplaza2/aplaza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
