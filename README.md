@@ -1,6 +1,11 @@
-### Hi there 👋 Just another one trying to make funny and boring stuff programming.
+### Hi there 👋  
+Im just another developer trying to turn both fun and boring ideas into code.  
+Currently working on Green Recommender Systems, but always open to exploring new projects and collaborations.
 
-### Hola a todos 👋 Solo alguien más tratando de hacer cosas divertidas y aburridas programando.
+### Hola a todos 👋  
+Soy solo un desarrollador más intentando convertir ideas divertidas y aburridas en código.  
+Actualmente trabajando en sistemas de recomendación sostenibles (Green Recommender Systems), pero siempre abierto a nuevos proyectos y colaboraciones.
+
  
 <!--
 **aplaza2/aplaza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
